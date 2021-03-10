@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kacper</h1>
+<h3 align="center">A young Front-end Developer from Poland.</h3>
+<h4 align="center">i'm currently working on <a href="https://github.com/kacper299/kacperdev">My Portfolio</a></h4>
+
 
 <!--
 **kacper299/kacper299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
