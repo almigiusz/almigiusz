@@ -2,7 +2,7 @@
 <h3 align="center">A young Front-end Developer from Poland.</h3>
 <h4 align="center">I'm currently working on <a href="https://github.com/kacper299/kacperdev">my portfolio</a></h4>
 <h4>🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap</h4>
-<h4>📫 How to reach me: Discord: kacper#0002</h4>
+<h4>📫 How to reach me: (discord: kacper#0002)</h4>
 
 
 
