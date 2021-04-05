@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋, I'm Kacper
+
+- 💻 I'm Front-end Developer.
+- 🏫 2nd class of technical school, IT technician.
+- 📚 I’m currently learning HTML, CSS, JavaScript, Bootstrap
+- 📫 How to reach me: (discord: kacper#5856)
+
+## Tools and languages
+- soon
