@@ -6,6 +6,10 @@ Hi 👋, I'm Kacper
 - 🔭 I'm currently working on <a href="https://github.com/kacper299/kacperdev">my portfolio</a>
 - 📫 How to reach me: (discord: kacper#5856)
 
+## Current projects
+- 🔭 I'm currently working on:
+<a href="https://github.com/kacper299/kacperdev">My portfolio</a>
+
 ## Tools and languages
 - soon
 
