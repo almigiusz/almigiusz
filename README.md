@@ -3,7 +3,6 @@ Hi 👋, I'm Kacper
 - 💻 A young Front-end Developer from Poland.
 - 🏫 2nd class of technical school, IT technician.
 - 📚 I’m currently learning HTML, CSS, JavaScript, Bootstrap
-- 🔭 I'm currently working on <a href="https://github.com/kacper299/kacperdev">my portfolio</a>
 - 📫 How to reach me: (discord: kacper#5856)
 
 ## Current projects
