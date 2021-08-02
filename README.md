@@ -2,7 +2,7 @@
 
 - 💻 A young Front-end Developer from Poland.
 - 🏫 3rd class of technical school, IT technician.
-- 📚 I’m currently learning HTML, CSS, JavaScript, Bootstrap
+- 📚 I’m currently learning HTML, CSS, JavaScript, discord.js
 - 📫 How to reach me: (discord: kacper#5856)
 
 ## Current projects
