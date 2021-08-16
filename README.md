@@ -27,10 +27,9 @@
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
 	"editor.linkedEditing": true,
-	// "editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.defaultFormatter": null,
 	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 60000, //1000ms - 1s , 60000ms - 60s
+	"files.autoSaveDelay": 60000,
 	"[html]": {
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
