@@ -3,7 +3,7 @@
 - 💻 A passionate Front-End Developer from Poland.
 - 🏫 3rd class of technical school, IT technician.
 - 📚 I’m currently learning HTML, CSS, JavaScript, SASS
-- 👨‍💻 All of my projects are available at **[http://kacperdev.pl](kacperdev.pl)**
+- 👨‍💻 All of my projects are available at <a href="http://kacperdev.pl">**kacperdev.pl**</a>
 - 💬 Ask me about **discord.js**
 - 📫 How to reach me **kontakt.almightybot@gmail.com**
 
