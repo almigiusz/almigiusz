@@ -16,26 +16,23 @@
 ## Visual Studio Code Workspace Settings
 ```
 {
-	"workbench.editorAssociations": {
-		"*.ipynb": "jupyter.notebook.ipynb"
-	},
-	"explorer.confirmDragAndDrop": false,
-	"liveshare.connectionMode": "relay",
-	"editor.formatOnSave": true,
-	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorTheme": "Tokyo Night Storm",
+	"workbench.iconTheme": "material-icon-theme",
+	"breadcrumbs.enabled": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.linkedEditing": true,
+	"editor.cursorBlinking": "expand",
+	"editor.wordWrap": "on",
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.semi": false,
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
-	"editor.linkedEditing": true,
-	"editor.defaultFormatter": null,
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 60000,
-	"[html]": {
-		"editor.defaultFormatter": "vscode.html-language-features"
-	},
-	"[javascript]": {
-		"editor.defaultFormatter": "vscode.typescript-language-features"
-	},
+	"prettier.printWidth": 120,
 	"liveSassCompile.settings.formats": [
 		{
 			"format": "expanded",
@@ -43,11 +40,25 @@
 			"savePath": "/css/"
 		}
 	],
-	"liveSassCompile.settings.autoprefix": [
-		"> 1%",
-		"last 2 versions"
-	],
-	"prettier.jsxSingleQuote": true
+	"liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+	"window.zoomLevel": 0,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	// "[javascript]": {
+	// 	"editor.defaultFormatter": "vscode.typescript-language-features"
+	// },
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	},
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"liveServer.settings.donotVerifyTags": true
 }
 ```
 
