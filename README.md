@@ -1,5 +1,5 @@
-## Hi 👋,
-my name is Kacper, and I am a front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
+## Hi 👋.
+my name is Kacper, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
 
 Because I am an extroverted person, my soft skills are exceptional. I can talk about specific issues while simultaneously looking for the best method to solve them. I am not afraid of obstacles since they motivate me to grow and learn.
 
@@ -23,6 +23,15 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 {
 	"workbench.colorTheme": "Tokyo Night Storm",
 	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorCustomizations": {
+		"editorBracketHighlight.foreground1": "#ffd700",
+		"editorBracketHighlight.foreground2": "#ff00ff",
+		"editorBracketHighlight.foreground3": "#00bfff",
+		"editorBracketHighlight.foreground4": "#7cfc00",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+	},
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
 	"breadcrumbs.enabled": false,
 	"liveServer.settings.donotShowInfoMsg": true,
 	"explorer.confirmDragAndDrop": false,
@@ -31,6 +40,8 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 	"editor.linkedEditing": true,
 	"editor.cursorBlinking": "expand",
 	"editor.wordWrap": "on",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": true,
 	"prettier.arrowParens": "avoid",
 	"prettier.jsxSingleQuote": true,
 	"prettier.jsxBracketSameLine": true,
@@ -50,9 +61,6 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 	"[html]": {
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
-	// "[javascript]": {
-	// 	"editor.defaultFormatter": "vscode.typescript-language-features"
-	// },
 	"emmet.syntaxProfiles": {
 		"html": {
 			"inline_break": 2
@@ -61,9 +69,9 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 	"emmet.variables": {
 		"lang": "pl"
 	},
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 1000,
-	"liveServer.settings.donotVerifyTags": true
+	"codesnap.containerPadding": "10px",
+	"codesnap.backgroundColor": "transparent",
+	"codesnap.boxShadow": "rgba(0, 0, 0, 0.3) 5px 5px 10px"
 }
 ```
 
