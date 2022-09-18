@@ -9,7 +9,7 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 - 💻 A passionate front-end developer from Poland.
 - 🏫 4th year of technical school, computer technician
 - 📚 I’m currently learning HTML, CSS, JavaScript, SASS.
-- 👨‍💻 All of my projects are available at <a href="http://kacperdev.pl">**kacperdev**</a>.
+- 👨‍💻 All of my projects are available at **soon ¯\_(ツ)_/¯**.
 - 💬 Ask me about **discord.js**.
 - 📫 How to reach me **kontakt.almightybot@gmail.com**.
 
