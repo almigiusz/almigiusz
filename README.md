@@ -1,9 +1,9 @@
 ## Hi 👋.
 My name is Kacper, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
 
-Because I am an extroverted person, my soft skills are exceptional. I can talk about specific issues while simultaneously looking for the best method to solve them. I am not afraid of obstacles since they motivate me to grow and learn.
+As an ambivert, I have a balanced mix of introverted and extroverted qualities. This allows me to excel at both individual work and collaboration with others. I can easily adapt to different situations and communicate effectively with a wide range of people.
 
-Frontend is not only a future plan for me, but also a love that absorbs most of my time, so I believe that collaboration with me would be highly beneficial because as an enthusiast, I take care of my portfolio and projects that I carry out.
+Frontend is not only a future plan for me, but also a love that absorbs most of my time, so I believe that collaboration with me would be highly beneficial. As an enthusiast, I take great care in maintaining a high-quality portfolio and in delivering outstanding results for my projects.
 ##
 
 - 💻 A passionate front-end developer from Poland.
