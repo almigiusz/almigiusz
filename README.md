@@ -76,6 +76,7 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 }
 ```
 
-![Stats align="left"](https://github-readme-stats.vercel.app/api?username=kacper299&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+## GitHub Stats
+![Stats align="left"](https://github-readme-stats.vercel.app/api?username=kacper299&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)<br>
 ![Language stats align="left"](https://github-readme-stats.vercel.app/api/top-langs/?username=kacper299&layout=compact)<br>
 ![Counter="left"](https://komarev.com/ghpvc/?username=kacper299&label=Profile%20views&color=0e75b6&style=flat)
