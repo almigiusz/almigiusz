@@ -1,9 +1,10 @@
-## Hi 👋.
+## Hi 👋
 My name is **Kacper**, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
 
 As an ambivert, I have a balanced mix of introverted and extroverted qualities. This allows me to excel at both individual work and collaboration with others. I can easily adapt to different situations and communicate effectively with a wide range of people.
 
 Frontend is not only a future plan for me, but also a love that absorbs most of my time, so I believe that collaboration with me would be highly beneficial. As an enthusiast, I take great care in maintaining a high-quality portfolio and in delivering outstanding results for my projects.
+
 ##
 
 - 💻 A passionate front-end developer from Poland.
@@ -22,4 +23,5 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 ## GitHub Stats
 ![Stats align="left"](https://github-readme-stats.vercel.app/api?username=kacper299&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)<br>
 ![Language stats align="left"](https://github-readme-stats.vercel.app/api/top-langs/?username=kacper299&layout=compact)<br>
+##
 ![Counter="left"](https://komarev.com/ghpvc/?username=kacper299&label=Profile%20views&color=0e75b6&style=flat)
