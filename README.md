@@ -1,9 +1,9 @@
 ## Hi 👋
-My name is **Kacper**, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
+My name is **Kacper**, and I used to be a passionate front-end developer. I started my programming journey in 2019 and was highly interested in the frontend from a technical and artistic perspective.
 
-As an ambivert, I have a balanced mix of introverted and extroverted qualities. This allows me to excel at both individual work and collaboration with others. I can easily adapt to different situations and communicate effectively with a wide range of people.
+Since 2023, I have shifted my focus entirely to backend development and have moved away from the frontend. However, I occasionally work on frontend projects for personal enjoyment or when the need arises. Nonetheless, my primary area of expertise and interest lies in backend development.
 
-Frontend is not only a future plan for me, but also a love that absorbs most of my time, so I believe that collaboration with me would be highly beneficial. As an enthusiast, I take great care in maintaining a high-quality portfolio and in delivering outstanding results for my projects.
+As an ambivert, I have a balanced mix of introverted and extroverted qualities, which enables me to excel at both individual work and collaborative efforts. I am highly adaptable to new situations and can effectively communicate with a diverse range of people.
 
 ##
 
